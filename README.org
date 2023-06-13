@@ -1,0 +1,10 @@
+* stumpwm-sndioctl
+
+Control sndioctl from StumpWM.
+
+|---------+-------------------------------------------|
+| source  | git:https://github.com/fagg/stumpwm-sndioctl.git   |
+| commit  | df5af02  |
+| systems | stumpwm-sndioctl |
+|---------+-------------------------------------------|
+
